@@ -47,7 +47,3 @@ def social_summerizer(name: str) -> Tuple[PersonIntel, str]:
     print("Output Text: ", output)
 
     return (output, linkedin_data.get("profile_pic_url"))
-
-
-if __name__ == "__main__":
-    social_summerizer(name="Andrew Ng")
