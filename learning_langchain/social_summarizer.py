@@ -16,6 +16,8 @@ if __name__ == "__main__":
     given the Linkedin information {information} about a person I want you to create:
     1. A short summary
     2. Two interesting facts about them
+    3. A Topic that may interest them
+    4. Two creative ice breakers to start a conversation with them
     """
 
     summary_prompt_template = PromptTemplate(
