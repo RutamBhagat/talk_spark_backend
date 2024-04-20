@@ -1,15 +1,16 @@
+import json
 from dotenv import load_dotenv
+from typing import Tuple
 from langchain.chains.llm import LLMChain
 from langchain.prompts import PromptTemplate
 from langchain_openai import ChatOpenAI
-import json
 
 from third_parties.linkedin import scrape_linkedin_profile
 from agents.linkedin_lookup_agent import lookup as linkedin_lookup_agent
 from output_parsers import PersonIntel, person_intel_parser
 
 
-def social_summerizer(name: str) -> PersonIntel:
+def social_summerizer(name: str) -> Tuple[PersonIntel, str]:
     load_dotenv()
 
     linkedin_profile_url = linkedin_lookup_agent(name="Andrew Ng")
@@ -45,7 +46,7 @@ def social_summerizer(name: str) -> PersonIntel:
 
     print("Output Text: ", output)
 
-    return output
+    return (output, linkedin_data.get("profile_pic_url"))
 
 
 if __name__ == "__main__":
