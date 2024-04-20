@@ -5,9 +5,12 @@ from langchain_openai import ChatOpenAI
 import json
 
 from third_parties.linkedin import scrape_linkedin_profile
+from agents.linkedin_lookup_agent import lookup as linkedin_lookup_agent
 
 if __name__ == "__main__":
     load_dotenv()
+
+    linkedin_profile_url = linkedin_lookup_agent(name="Andrew Ng")
 
     summary_template = """
     given the Linkedin information {information} about a person I want you to create:
@@ -23,10 +26,10 @@ if __name__ == "__main__":
 
     chain = LLMChain(llm=llm, prompt=summary_prompt_template)
 
-    linkedin_data = scrape_linkedin_profile("https://www.linkedin.com/in/andrewyng/")
+    linkedin_data = scrape_linkedin_profile(linkedin_profile_url)
 
     information = json.dumps(linkedin_data)  # Convert dictionary to JSON string
 
-    res = chain.run(information=information)
+    res = chain.invoke(information)
 
-    print(res)
+    print("Output Text: ", res["text"])
