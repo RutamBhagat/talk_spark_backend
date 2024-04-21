@@ -1,4 +1,3 @@
-from dotenv import load_dotenv
 from langchain.serpapi import SerpAPIWrapper
 from langchain.agents import tool
 
@@ -44,7 +43,6 @@ class CustomSerpAPIWrapper(SerpAPIWrapper):
 @tool
 def get_profile_url(name: str):
     """Searches for Linkedin or twitter Profile Page."""
-    load_dotenv()
     search = CustomSerpAPIWrapper()
     res = search.run(f"{name}")
     return res

@@ -1,18 +1,15 @@
 import json
-from dotenv import load_dotenv
 from typing import Tuple
 from langchain.chains.llm import LLMChain
 from langchain.prompts import PromptTemplate
 from langchain_openai import ChatOpenAI
 
-from third_parties.linkedin import scrape_linkedin_profile
-from agents.linkedin_lookup_agent import lookup as linkedin_lookup_agent
-from output_parsers import PersonIntel, person_intel_parser
+from .third_parties.linkedin import scrape_linkedin_profile
+from .agents.linkedin_lookup_agent import lookup as linkedin_lookup_agent
+from .output_parsers import PersonIntel, person_intel_parser
 
 
-def social_summerizer(name: str) -> Tuple[PersonIntel, str]:
-    load_dotenv()
-
+def social_summarizer(name: str) -> Tuple[PersonIntel, str]:
     linkedin_profile_url = linkedin_lookup_agent(name="Andrew Ng")
 
     summary_template = """

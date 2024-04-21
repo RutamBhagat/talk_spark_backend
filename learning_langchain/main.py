@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from routers import summarizer
+from .routers import summarizer
 from dotenv import load_dotenv
 
 

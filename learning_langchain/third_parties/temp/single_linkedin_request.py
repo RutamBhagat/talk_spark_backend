@@ -1,9 +1,5 @@
 import os
 import requests
-from dotenv import load_dotenv
-
-# Load environment variables from .env file
-load_dotenv()
 
 # Retrieve the API key from the environment variables
 api_key = os.getenv("PROXYCURL_API_KEY")
