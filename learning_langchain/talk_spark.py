@@ -9,7 +9,7 @@ from .agents.linkedin_lookup_agent import lookup as linkedin_lookup_agent
 from .output_parsers import PersonIntel, person_intel_parser
 
 
-def social_summarizer(name: str) -> Tuple[PersonIntel, str]:
+def talk_spark(name: str) -> Tuple[PersonIntel, str]:
     linkedin_profile_url = linkedin_lookup_agent(name="Andrew Ng")
 
     summary_template = """
@@ -43,4 +43,8 @@ def social_summarizer(name: str) -> Tuple[PersonIntel, str]:
 
     print("Output Text: ", output)
 
-    return (output, linkedin_data.get("profile_pic_url"))
+    return (
+        output,
+        linkedin_data.get("profile_pic_url"),
+        linkedin_data.get("full_name"),
+    )

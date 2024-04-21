@@ -1,15 +1,26 @@
 from fastapi import FastAPI
-from .routers import summarizer
+from .routers import talk_spark
 from dotenv import load_dotenv
+from fastapi.middleware.cors import CORSMiddleware
 
 
 load_dotenv()
 
 app = FastAPI()
 
+app = FastAPI()
+
+# Add CORS middleware to allow all origins
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allows all origins
+    allow_credentials=True,
+    allow_methods=["*"],  # Allows all methods
+    allow_headers=["*"],  # Allows all headers
+)
 
 app.include_router(
-    summarizer.router,
-    prefix="/summarizer",
-    tags=["summarizer"],
+    talk_spark.router,
+    prefix="/talk_spark",
+    tags=["talk_spark"],
 )
