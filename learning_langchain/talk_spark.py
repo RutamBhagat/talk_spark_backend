@@ -10,7 +10,7 @@ from .output_parsers import PersonIntel, person_intel_parser
 
 
 def talk_spark(name: str) -> Tuple[PersonIntel, str]:
-    linkedin_profile_url = linkedin_lookup_agent(name="Andrew Ng")
+    linkedin_profile_url = linkedin_lookup_agent(name)
 
     summary_template = """
     given the Linkedin information {information} about a person I want you to create:
