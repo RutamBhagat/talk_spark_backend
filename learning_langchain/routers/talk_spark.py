@@ -8,6 +8,7 @@ router = APIRouter()
 
 @router.post("/process", status_code=status.HTTP_201_CREATED)
 async def create_new_todo(person_request: Person_Request):
+    print("This is hit")
     person_info, profile_pic_url, full_name = talk_spark(name=person_request.name)
     response = {
         "summary": person_info.summary,
