@@ -1,8 +1,7 @@
 {
   "https://www.linkedin.com/in/andrewyng": {
     "public_identifier": "andrewyng",
-    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/andrewyng/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240420%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240420T143000Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=14f3135fbb6820920c7ba0c3df0aac806713f0b5e69152602db9b7370823981d",
-    "background_cover_image_url": null,
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/andrewyng/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240425%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240425T194706Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6b2933fa080b9828c3f0cb5cd8b82352cd1bf482b0a5264811acbde9f55d5682",
     "first_name": "Andrew",
     "last_name": "Ng",
     "full_name": "Andrew Ng",
@@ -24,6 +23,7 @@
         "ends_at": null,
         "company": "AI Fund",
         "company_linkedin_profile_url": "https://www.linkedin.com/company/aifund",
+        "company_facebook_profile_url": null,
         "title": "Managing General Partner",
         "description": "AI Fund is a venture studio that partners with entrepreneurs to build AI companies that move humanity forward. We don't just provide capital, we actively help build the company: we seek to play at least a minor co-founder role in the companies we engage in. \n\nAfter identifying a concrete startup idea, we actively help the founder validate both customer need and technical feasibility (often collaborating to build a technical prototype), help shape the AI technology roadmap, the go-to-market, and help recruit the key leaders, including the AI engineering team. \n\nBecause AI is a general purpose technology that can be applied to numerous sectors -- including ones that we at AI Fund don't have expertise in -- we partner with subject matter experts (SMEs) in logistics, healthcare, education, relationships, finance, and other sectors. By leveraging our AI expertise and the SME's expertise in an important application sector, we can build a promising AI business in that sector. \n\nWe take responsible AI seriously and will, on ethical grounds, choose not to pursue projects that we otherwise assess to be financially sound.",
         "location": null,
@@ -38,6 +38,7 @@
         "ends_at": null,
         "company": "Coursera",
         "company_linkedin_profile_url": "https://www.linkedin.com/company/coursera",
+        "company_facebook_profile_url": null,
         "title": "Co-Founder and Chairman",
         "description": "Coursera (NYSE: COUR) envisions a world where anyone, anywhere has the power to transform their lives through learning. Coursera had started with my Machine Learning class and a nascent online education product I had built at Stanford. I served as the company's Co-CEO in the early years with day-to-day responsibility for product, engineering, sales, marketing and operations, and remain Chairman of the company today. Coursera now has over 100M learners, and we partner with more than 275 leading universities and companies to bring flexible, affordable, job-relevant online learning to individuals and organizations. Coursera's offerings include courses, specializations, job-ready professional certificates and degree programs. http://coursera.org",
         "location": "Mountain View, CA",
@@ -52,6 +53,7 @@
         "ends_at": null,
         "company": "DeepLearning.AI",
         "company_linkedin_profile_url": "https://www.linkedin.com/company/deeplearningai",
+        "company_facebook_profile_url": null,
         "title": "Founder",
         "description": "DeepLearning.AI provides technical training on Generative AI, Machine Learning, Deep Learning, and other topics. We also offer a widely read newsletter, The Batch (thebatch.ai), that covers what matters in AI right now. \n\nOur courses are often created with industry-leading AI companies (AWS, Google, OpenAI, etc.), and we offer both short courses that can be completed in an hour, and longer courses and specializations hosted on Coursera that give you a solid foundation in some aspect of AI. These courses are designed to offer hands-on practice with AI technologies, and you will gain practical, job-ready skills. \n\nWhether you are just starting out in AI or seeking to further an existing career, come see if we can help, at http://deeplearning.ai!",
         "location": "Palo Alto, California, United States",
@@ -66,6 +68,7 @@
         "ends_at": null,
         "company": "Landing AI",
         "company_linkedin_profile_url": "https://www.linkedin.com/company/landing-ai",
+        "company_facebook_profile_url": null,
         "title": "Founder & CEO",
         "description": "Landing AI provides software that makes computer vision easy. Using Landing AI's tools, many vision projects that used to take 6-12 months can now be built in days, and deployed at either cloud or edge. \n\nEnabled by the Transformer neural network (created by the Google Brain team), the Generative AI revolution has arrived in text processing. By scaling up the more recent Vision Transformer neural network, we believe a revolution is also coming in image processing. Landing AI is developing these technologies to offer an easy, low code platform for computer vision, which users are applying in manufacturing inspection, industrial automation, life sciences, agriculture, geo-spatial imagery, and other sectors. \n\nKey technical innovations include Data-centric AI, the discipline of systematically engineering data to build an AI system, and Visual Prompting, which allows you to build a computer vision system in seconds, via specifying a \"visual prompt\" by swiping a handful of pixels.",
         "location": "Palo Alto, California",
@@ -80,6 +83,7 @@
         "ends_at": null,
         "company": "Stanford University",
         "company_linkedin_profile_url": "https://www.linkedin.com/company/stanford-university",
+        "company_facebook_profile_url": null,
         "title": "Adjunct Professor of Computer Science",
         "description": "I was the Director of the Stanford AI Lab (https://ai.stanford.edu/), home to 20+ faculty members and research groups, and a tenured professor in Stanford's Computer Science department. More recently, I switched to an Adjunct Professor role. \n\nMy research group's work focused on AI, Deep Learning, Machine Learning and Robotics. Notable projects include early work in Deep Learning (that led to the founding of Google Brain), early work in online education (that led to the founding of Coursera), ROS (a widely used open-source robotics development platform), and work on Reinforcement Learning for robotic control (such as the Stanford autonomous helicopter). More recent efforts include applications of AI to Healthcare and to Climate Change.",
         "location": null,
@@ -98,6 +102,7 @@
         },
         "company": "drive.ai",
         "company_linkedin_profile_url": "https://www.linkedin.com/company/drive.ai",
+        "company_facebook_profile_url": null,
         "title": "Member of Board Of Directors",
         "description": "Drive.ai built and operated a fleet of self-driving cars, and was successfully acquired by Apple.",
         "location": "Mountain View CA",
@@ -116,6 +121,7 @@
         },
         "company": "Baidu, Inc.",
         "company_linkedin_profile_url": "https://www.linkedin.com/company/baidu-inc",
+        "company_facebook_profile_url": null,
         "title": "Chief Scientist & VP ",
         "description": "I led Baidu's AI Group, a 1,300 person team including 300 in Baidu Research, and was responsible for the company's AI technology and strategy. My team built Baidu up to be China's leading AI company of its time. \n\nThe AI Group delivered dozens of AI projects that significantly improved Baidu search, advertising, maps, delivery logistics, voice search, security, consumer finance and many more. I was also responsible for initiating and launching new AI-powered businesses, such as DuerOS (a very successful conversational computer platform), Autonomous Driving (now Apollo), and others. Other major products that I was responsible for included Image Search and the Baidu keyboard (with over 100M MAU).",
         "location": "Sunnyvale, CA",
@@ -134,6 +140,7 @@
         },
         "company": "Google",
         "company_linkedin_profile_url": "https://www.linkedin.com/company/google",
+        "company_facebook_profile_url": null,
         "title": "Founder and Lead, Google Brain (Deep Learning) project",
         "description": "I started and led the Google Brain team, which helped Google transform into a modern AI company by developing advanced Deep Learning technology, and moving the company to adopt it for numerous business applications. The Google Brain team's success was the inspiration for many other companies to build up their own AI teams. \n\nUsing Google's compute infrastructure, we started by proving that scaling up data and compute leads to huge performance improvements, and also created the famous \"Google Cat\" demonstration of AI learning to recognize objects (such as cats) by itself. Our technology for building large scale AI models was the pre-cursor to TensorFlow, and also allowed us to take deep learning to valuable Google products including ads, speech recognition, maps, and many others. http://www.nytimes.com/2012/06/26/technology/in-a-big-network-of-computers-evidence-of-machine-learning.html",
         "location": "Mountain View, CA",
@@ -152,6 +159,7 @@
         "degree_name": "Doctor of Philosophy - PhD",
         "school": "University of California, Berkeley",
         "school_linkedin_profile_url": "https://www.linkedin.com/company/2517/",
+        "school_facebook_profile_url": null,
         "description": null,
         "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGF8uB7vUoJ0Q/company-logo_400_400/0/1639585477530/uc_berkeley_logo?e=1720656000&v=beta&t=gs1umkYywk4cjWu9H_kcV4vmepiMXiKTmK_B6GPY2rM",
         "grade": null,
@@ -168,6 +176,7 @@
         "degree_name": "Master of Science - MS",
         "school": "Massachusetts Institute of Technology",
         "school_linkedin_profile_url": "https://www.linkedin.com/company/1503/",
+        "school_facebook_profile_url": null,
         "description": null,
         "logo_url": "https://media.licdn.com/dms/image/D560BAQH-UXRfIDIKug/company-logo_400_400/0/1689799729035/mit_logo?e=1720656000&v=beta&t=IWPZ0YBhoHDxrZ70WGgVi7DZNaOMZ8VTML9zCEYeFno",
         "grade": null,
@@ -184,45 +193,14 @@
         "degree_name": "Bachelor of Science - BS",
         "school": "Carnegie Mellon University",
         "school_linkedin_profile_url": "https://www.linkedin.com/company/3147/",
+        "school_facebook_profile_url": null,
         "description": null,
         "logo_url": "https://media.licdn.com/dms/image/C560BAQH0rMqWuDcNzA/company-logo_400_400/0/1656670432790/carnegie_mellon_university_logo?e=1720656000&v=beta&t=4j7fHCCvTjIxNpKbFy9Wq7PwoDUBqXbFDIFLtI-GKyU",
         "grade": null,
         "activities_and_societies": null
       }
     ],
-    "connections": 1614,
-    "people_also_viewed": [
-      {
-        "link": "https://www.linkedin.com/in/shravan?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAAV2HoBHYpNNiRuHFyJIMulxd1IYyAFUEo",
-        "name": "Shravan Goli",
-        "summary": "CEO, President, General Manager, COO, Investor, Board Director",
-        "location": null
-      },
-      {
-        "link": "https://www.linkedin.com/in/khanacademy?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAAG7n0BqIWxwKBc4aC0Io6sFM1Rzg3vONI",
-        "name": "Sal Khan",
-        "summary": "Khan Academy, Schoolhouse.world, Khan Lab School, Khan Lab High School",
-        "location": null
-      },
-      {
-        "link": "https://www.linkedin.com/in/andy-jassy-8b1615?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAAXP8UB4_GzJNUYcEDdAM6IBQNKZYe-WOU",
-        "name": "Andy Jassy",
-        "summary": "President and CEO at Amazon",
-        "location": null
-      },
-      {
-        "link": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc",
-        "name": "Bill Gates",
-        "summary": "Co-chair, Bill & Melinda Gates Foundation",
-        "location": null
-      },
-      {
-        "link": "https://www.linkedin.com/in/lexfridman?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAB0ur4B2dLbFAHKCLO0VHtal_ilBhaBFxM",
-        "name": "Lex Fridman",
-        "summary": "Research Scientist, MIT",
-        "location": null
-      }
-    ]
+    "connections": 1614
   },
   "https://www.linkedin.com/in/leonnoel": {
     "public_identifier": "leonnoel",
