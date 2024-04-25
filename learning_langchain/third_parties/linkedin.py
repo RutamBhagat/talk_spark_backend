@@ -7,6 +7,7 @@ def scrape_linkedin_profile(linkedin_url: str):
     Scrape information from LinkedIn profiles,
     Manually scrape the information from LinkedIn profile
     """
+    linkedin_url = linkedin_url.rstrip("/")
     print("Linkedin URL: ", linkedin_url)
     data = None
     # Check if the LinkedIn URL is present in the response.json file
@@ -19,7 +20,6 @@ def scrape_linkedin_profile(linkedin_url: str):
             if linkedin_url in response_data:
                 print("URL Found in response.json file")
                 data = response_data[linkedin_url]
-                print(data)
             else:
                 print("URL Not Found in response.json file")
     except FileNotFoundError:
