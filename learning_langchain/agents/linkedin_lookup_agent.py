@@ -20,7 +20,6 @@ def lookup(name: str) -> str:
         ),
     ]
     react_prompt = hub.pull("hwchase17/react")
-    print("React Prompt: ", react_prompt)
     agent = create_react_agent(
         llm=llm,
         tools=tools_for_agent,
@@ -32,10 +31,8 @@ def lookup(name: str) -> str:
     prompt_template = PromptTemplate(
         template=template, input_variables=["name_of_person"]
     )
-    print("This is hit 1")
     result = agent_executor.invoke(
         input={"input": prompt_template.format_prompt(name_of_person=name)}
     )
-    print("This is hit 2")
     linkedin_profile_url = result["output"]
     return linkedin_profile_url

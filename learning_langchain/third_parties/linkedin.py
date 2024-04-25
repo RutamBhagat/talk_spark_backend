@@ -17,14 +17,17 @@ def scrape_linkedin_profile(linkedin_url: str):
             print("File Opened")
             response_data = json.load(file)
             if linkedin_url in response_data:
+                print("URL Found in response.json file")
                 data = response_data[linkedin_url]
+                print(data)
+            else:
+                print("URL Not Found in response.json file")
     except FileNotFoundError:
         print("File Not Found")
         data = None
 
     if data:
         return data
-
     return data
 
     # api_endpoint = "https://nubela.co/proxycurl/api/v2/linkedin"
