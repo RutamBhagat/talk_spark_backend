@@ -223,5 +223,579 @@
         "location": null
       }
     ]
+  },
+  "https://www.linkedin.com/in/leonnoel": {
+    "public_identifier": "leonnoel",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/leonnoel/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240425%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240425T194405Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=dd6185af38c9535a5af80f4d36dc69ef3763aca7f617288bbbf6ccd05d0247db",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/leonnoel/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240425%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240425T194405Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=83fc8cba9341d05dcf0d0a7557db022281bb9a87f9c5aef9c19474d1433ce33d",
+    "first_name": "Leon",
+    "last_name": "Noel",
+    "full_name": "Leon Noel",
+    "follower_count": 2717,
+    "occupation": "Managing Director of Engineering at Resilient Coders",
+    "headline": "Managing Director of Engineering, Resilient Coders",
+    "summary": "Leon Noel is an internationally recognized software developer and entrepreneur. Before joining the Resilient Coders team, he co-founded SocialSci, a scientific surveying company relied on by over 4000 academic institutions and held an associate position at Harvard University. Besides his lecturing work at Harvard Business School, MIT Sloan School of Business, and General Assembly, Leon has also worked with major brands such as Shawmut Construction, BMW and Capital One to help train their engineering teams and bring new technology to market. His technological pursuits have been featured in numerous publications including Tech Crunch, Black Enterprise, and the Boston Globe.",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "experiences": [
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 8,
+          "year": 2020
+        },
+        "ends_at": null,
+        "company": "100Devs",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/100devs",
+        "company_facebook_profile_url": null,
+        "title": "Interim CTO",
+        "description": null,
+        "location": "Los Angeles, California, United States",
+        "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGIlYsjeJ1xcg/company-logo_400_400/0/1630628692215?e=1709164800&v=beta&t=G09czojC6F9KZg9THEgQdhxKC3ZjHqhpTkT5CutoTG4"
+      },
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 12,
+          "year": 2013
+        },
+        "ends_at": null,
+        "company": "General Assembly",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/generalassembly",
+        "company_facebook_profile_url": null,
+        "title": "Distinguished Faculty ",
+        "description": null,
+        "location": "Boston, Massachusetts, United States",
+        "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEwAxD22k-HBw/company-logo_400_400/0/1630655071297/generalassembly_logo?e=1709164800&v=beta&t=ls0ULsXALOcUGzKhVxDuLTwIBamgIbyETQycCO0F284"
+      },
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 12,
+          "year": 2016
+        },
+        "ends_at": null,
+        "company": "Resilient Coders",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/resilient-coders",
+        "company_facebook_profile_url": null,
+        "title": "Managing Director of Engineering",
+        "description": null,
+        "location": "Boston, Massachusetts, United States",
+        "logo_url": "https://media.licdn.com/dms/image/C560BAQH-2C6M4VzJFg/company-logo_400_400/0/1631364029138?e=1709164800&v=beta&t=gtsyuZANo2ybinQAZxXQi73bm1FAU32yrF-Npm9ZvGs"
+      },
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 5,
+          "year": 2009
+        },
+        "ends_at": {
+          "day": 31,
+          "month": 12,
+          "year": 2016
+        },
+        "company": "SocialSci",
+        "company_linkedin_profile_url": null,
+        "company_facebook_profile_url": null,
+        "title": "Co-Founder & CEO",
+        "description": "A Boston based startup focused on furthering science and bringing academic experimentation online. (TechStars and Dog Patch Labs incubated)",
+        "location": null,
+        "logo_url": null
+      }
+    ],
+    "education": [
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 1,
+          "year": 2006
+        },
+        "ends_at": {
+          "day": 31,
+          "month": 12,
+          "year": 2010
+        },
+        "field_of_study": null,
+        "degree_name": null,
+        "school": "Yale University",
+        "school_linkedin_profile_url": "https://www.linkedin.com/company/15248569/",
+        "school_facebook_profile_url": null,
+        "description": null,
+        "logo_url": "https://media.licdn.com/dms/image/C560BAQGGJUjGgSYcWQ/company-logo_400_400/0/1631385636084?e=1709164800&v=beta&t=iZTgnAp86bdBQuQtXTZVdqK2q3_Fz0FzY6E-dyM1ObA",
+        "grade": null,
+        "activities_and_societies": null
+      }
+    ],
+    "recommendations": [
+      "Gene Babon\n\n\n\nEvery Mick Jagger needs a Keith Richards.  Leon is my Keith Richards.  Leon was my teaching assistant for a 60-hour Front-End Web Development course.  I was the lead instructor.  Leon's knowledge and experience in HTML5, CSS, JavaScript and jQuery was a main driver in delivering successful outcomes for the students in the class.  He filled in gaps in my knowledge.  He gave generously of his time.  He championed the program and demonstrated genuine concern for each student's success.  Leon is now his own front man co-leading his own team of front-end web developers in training.  Leon delivers results by combining technical curiosity with interpersonal charm.  Leon rocks!"
+    ],
+    "similarly_named_profiles": [
+      {
+        "name": "Leon Noel",
+        "link": "https://uk.linkedin.com/in/leon-noel-3b118b14",
+        "summary": "Service Delivery Manager at RICS",
+        "location": "Coventry"
+      },
+      {
+        "name": "Leon Noel",
+        "link": "https://uk.linkedin.com/in/leon-noel-664a263a",
+        "summary": "IT Service Management, IT Change, IT ConsultingTalks about #siam, #itconsulting, #ittransformation, #itassetmanagement, and #itservicemanagement",
+        "location": "Greater Coventry Area"
+      },
+      {
+        "name": "Leon Noel",
+        "link": "https://www.linkedin.com/in/leon-noel-b1390a155",
+        "summary": "Applications / Web Developer  . www(dot)moleonnoeljr(dot)com Java Python C++",
+        "location": "Clermont, FL"
+      },
+      {
+        "name": "Leon Noel",
+        "link": "https://www.linkedin.com/in/leon-noel-01bb6b61",
+        "summary": "Leon Noel | Safety Manager",
+        "location": "Peru, IL"
+      }
+    ],
+    "groups": [
+      {
+        "name": "JavaScript",
+        "url": "https://www.linkedin.com/groups/121615"
+      },
+      {
+        "name": "#100Devs",
+        "url": "https://www.linkedin.com/groups/9037281"
+      }
+    ]
+  },
+  "https://in.linkedin.com/in/warikoo": {
+    "public_identifier": "warikoo",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/warikoo/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240425%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240425T194536Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3625e1526b023894cdfbfb0c564371dd8d8993a174d87154a4496b9ca63c4918",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/warikoo/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240425%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240425T194536Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=78924930c66923a2b48b7b127059ad54445e3065517169461b4ab308e0030e9a",
+    "first_name": "Ankur",
+    "last_name": "Warikoo",
+    "full_name": "Ankur Warikoo",
+    "follower_count": 2273882,
+    "occupation": "Founder at HelpClub",
+    "headline": "Founder @WebVeda, Content creator @wariCrew, Speaker, Author. Eternal Optimist.",
+    "summary": "With over 15 years of experience in the internet and technology industry, I have founded, invested in, and mentored several successful ventures. \n\nCurrently, I am the founder of WebVeda, an online school that helps young professionals become life-ready by teaching them skills such as entrepreneurship, career management, and personal growth. \nAs of October 2023, WebVeda has over 370,000 paid students across the world, with an average completion rate of 72%.\n\nI am also a content creator with a passion for sharing my insights, stories, and tips on personal finance, startups, careers, and education. I have a community of 10M+ followers across various social media platforms, where I post engaging and informative content regularly. \n\nI have also written two bestselling books, \"DO EPIC SHIT\" and \"GET EPIC SHIT DONE\", that have inspired millions of readers to pursue their passion and potential. \n\nMy mission is to help people make decisions in life from a point of awareness and not ignorance.",
+    "country": "IN",
+    "country_full_name": "India",
+    "experiences": [
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 7,
+          "year": 2014
+        },
+        "ends_at": null,
+        "company": "Internet & Technology Companies",
+        "company_linkedin_profile_url": null,
+        "company_facebook_profile_url": null,
+        "title": "Startup Investor",
+        "description": "I invest in growth stage startups, with a focus on consumer internet startups. \n\nI look for fearless teams with a strong risk appetite, willingness to get uncomfortable and curiosity that of a child! \nConnect with me on warikoo@gmail.com",
+        "location": "India",
+        "logo_url": null
+      },
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 11,
+          "year": 2023
+        },
+        "ends_at": null,
+        "company": "HelpClub",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/helpclub/",
+        "company_facebook_profile_url": null,
+        "title": "Founder",
+        "description": "HelpClub is an anon app where help meets privacy",
+        "location": null,
+        "logo_url": "https://media.licdn.com/dms/image/D4E0BAQHbGPI1dks2SA/company-logo_400_400/0/1709041717454/helpclub_logo?e=1720051200&v=beta&t=fdb9xLsSrweta56NBtKPRxqT0pXQGdgqhS-VeK6uxKM"
+      },
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 10,
+          "year": 2019
+        },
+        "ends_at": null,
+        "company": "nearbuy.com",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/nearbuy-india/",
+        "company_facebook_profile_url": null,
+        "title": "Cofounder & Board Member",
+        "description": "In November 2019, I stepped down as the CEO of nearbuy.com, with my 2 cofounders taking operational charge of the company. \n\nI continue to be a shareholder and serve on the board of the company.",
+        "location": "India",
+        "logo_url": "https://media.licdn.com/dms/image/C510BAQEwbk0Z6FLRIA/company-logo_400_400/0/1630587255695/nearbuy_india_logo?e=1720051200&v=beta&t=NNBVvKjzvRhauXl44msoYh6M4Z7fszoQ_okEwM1fm5g"
+      },
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 8,
+          "year": 2015
+        },
+        "ends_at": {
+          "day": 31,
+          "month": 10,
+          "year": 2019
+        },
+        "company": "nearbuy.com",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/nearbuy-india/",
+        "company_facebook_profile_url": null,
+        "title": "Cofounder & CEO",
+        "description": "India's largest commerce platform for everything local\nwww.nearbuy.com\n\nnearbuy.com happened as a Management Buyout of Groupon's India business. We partnered with Sequoia Capital India and created an independent company, called nearbuy.com\n\nIn 2017, Paytm invested in the company, and we merged with Little App, to create a 88% market share company. Little + nearbuy.com are run by the management team of nearbuy.com",
+        "location": "India",
+        "logo_url": "https://media.licdn.com/dms/image/C510BAQEwbk0Z6FLRIA/company-logo_400_400/0/1630587255695/nearbuy_india_logo?e=1720051200&v=beta&t=NNBVvKjzvRhauXl44msoYh6M4Z7fszoQ_okEwM1fm5g"
+      },
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 10,
+          "year": 2019
+        },
+        "ends_at": null,
+        "company": "wariCrew",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/waricrew/",
+        "company_facebook_profile_url": null,
+        "title": "Content Creator",
+        "description": "I create content on Personal Finance, Career, Relationships and Personal Growth. \nAs of Oct 2023, I have 10M+ cumulative followers across platforms. \n\nI have been creating content since 2005 (my blog, which is still maintained). \nMy LinkedIn journey started in 2013.\nYT and IG in 2017.\n\nAll of this is possible because of my team @waricrew - a bunch of young, eager and curious minds.",
+        "location": null,
+        "logo_url": "https://media.licdn.com/dms/image/D4D0BAQGCdxSQyI4utw/company-logo_400_400/0/1664431990429/waricrew_logo?e=1720051200&v=beta&t=UrOeTee51lRmEOhn2Spe86ZLuX2Iuk_Knto1YowqcoE"
+      },
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 3,
+          "year": 2020
+        },
+        "ends_at": null,
+        "company": "WebVeda",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/webveda/",
+        "company_facebook_profile_url": null,
+        "title": "Founder",
+        "description": "WebVeda is an online school to make young professionals life-ready.\n\nCourses on WebVeda are affordable, self-paced, come with 100% refund policy and lifetime upgrades. \nThey hope to teach what school and college ought to have, but didn't. \nSkills such as time management, communication, personal finance, generating side incomes, how to think like an entrepreneur.\n\nAs of Oct 2023, 370,000+ students have taken our paid courses, with an average completion rate of ~72%.\n\nWe launch 4 courses every year, in addition to dubbed version of existing courses in regional and international languages.",
+        "location": null,
+        "logo_url": "https://media.licdn.com/dms/image/D4D0BAQErSvnWSrZvTQ/company-logo_400_400/0/1695795253816/zaan_webveda_private_limited_logo?e=1720051200&v=beta&t=K03u9ZD2PrDFHjH9Q1f3WWMnUgnZl6Y9i2dEZkGu7iA"
+      },
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 7,
+          "year": 2014
+        },
+        "ends_at": {
+          "day": 31,
+          "month": 7,
+          "year": 2017
+        },
+        "company": "Indian School of Business",
+        "company_linkedin_profile_url": "https://www.linkedin.com/school/indian-school-of-business/",
+        "company_facebook_profile_url": null,
+        "title": "Board Member",
+        "description": "Part of ISB's Next Generation Leaders Board (NGLB)\n\nThe NGLB comprises a group of young Indian and global leaders representing the business, political, academic, government and development sectors who provide thought leadership and strategic advice to the Dean and the Executive Board to shape the future direction of the School.\nhttp://www.isb.edu/about-isb/leadership-and-governance/next-generation-leaders-board",
+        "location": "New Delhi Area, India",
+        "logo_url": "https://media.licdn.com/dms/image/C560BAQF_fJFzgl3vKA/company-logo_400_400/0/1672230749864/indian_school_of_business_logo?e=1720051200&v=beta&t=eRQ4LXPBJy77XxU0nsJryRUzZq6_shcinPsf23AT7W8"
+      },
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 3,
+          "year": 2011
+        },
+        "ends_at": {
+          "day": 31,
+          "month": 7,
+          "year": 2015
+        },
+        "company": "Groupon",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/groupon/",
+        "company_facebook_profile_url": null,
+        "title": "CEO, India",
+        "description": "Started the India business for Groupon in 2011 as its founding CEO. \nFirst office, first employee, first merchant. \n\nDid a management buyout in August 2015, to convert Groupon India into nearbuy.com - independent of the Groupon portfolio.",
+        "location": "India",
+        "logo_url": "https://media.licdn.com/dms/image/D4E0BAQHGY3um1bs0lg/company-logo_400_400/0/1688371559361/groupon_logo?e=1720051200&v=beta&t=Ft_oleq4WX73r1yYC5B28733HDCGn56kfvs0mDHKyFA"
+      },
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 6,
+          "year": 2013
+        },
+        "ends_at": {
+          "day": 31,
+          "month": 12,
+          "year": 2014
+        },
+        "company": "Groupon",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/groupon/",
+        "company_facebook_profile_url": null,
+        "title": "Head, Groupon APAC Emerging Markets (India, Indonesia, Thailand, Philippines)",
+        "description": "Managing the APAC Emerging Markets Regions for Groupon, comprising India, Indonesia, Thailand and Philippines. \n\nThe region identifies the future growth region for Groupon, with over 245Mn Internet users, expected to grow to 400Mn by 2015\n\nFor any suggestions and feedback on any of these Groupon markets - please do not hesitate to connect directly on ankur.warikoo@groupon.com",
+        "location": "Asia",
+        "logo_url": "https://media.licdn.com/dms/image/D4E0BAQHGY3um1bs0lg/company-logo_400_400/0/1688371559361/groupon_logo?e=1720051200&v=beta&t=Ft_oleq4WX73r1yYC5B28733HDCGn56kfvs0mDHKyFA"
+      },
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 12,
+          "year": 2010
+        },
+        "ends_at": {
+          "day": 30,
+          "month": 4,
+          "year": 2012
+        },
+        "company": "Rocket Internet GmbH",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/rocket-internet-se/",
+        "company_facebook_profile_url": null,
+        "title": "Venture Partner",
+        "description": "Worked as a Venture Partner for Rocket Internet, setting up their India office alongwith 2 other Venture Partners. Part of the pre-launch team for Jabong.com before moving onto Groupon (which, at that time, was also a Rocket Internet Investment)\n\nFounded in 2007, Rocket Internet GmbH has its headquarters in Berlin. Rocket supports internet startups in more than twenty countries around the world.\nSome of its best-known Internet projects are Zalando, FoodPanda, Groupon (formerly CityDeal) amongst others.",
+        "location": null,
+        "logo_url": "https://media.licdn.com/dms/image/C510BAQHXANtSz2TYzQ/company-logo_400_400/0/1631403106850?e=1720051200&v=beta&t=zFkW23DfHgZl9MC8KiTydp4_CeX0GNQQTRnuoo4pbdU"
+      },
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 4,
+          "year": 2007
+        },
+        "ends_at": {
+          "day": 30,
+          "month": 9,
+          "year": 2010
+        },
+        "company": "Accentium Web",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/accentium-web-pvt-ltd/",
+        "company_facebook_profile_url": null,
+        "title": "Co-founder",
+        "description": "April 2007 - Mar 2009: Part Time\nMar 2009 - Sep 2010: Full Time\n\nAccentium was started by Vivek Pahwa, where Umang and I joined as Co-Founders during the course. Vivek continues to act as the CEO of Accentium Web. \n\nOperated in a part-time capacity alongwith my full-time commitment at ATK from 2007 to 2009. Jumped fulltime into Accentium in April 2009. Exited from the venture in Sep 2010. \n\nAccentium back then operated a portfolio of 6 websites, spanning products and services\n\nGaadi.com \n**Gaadi was sold to MIH (Naspers) Group in March 2011 - http://www.medianama.com/2011/02/223-mih-group-acquires-majority-stake-in-gaadi-com/\n\nSecondShaadi.com - India's No. 1 site for people looking for a Second Marriage and the 4th largest matrimonial site in India\n\nStudyNation.com \nTaaza.com \nSitaGita.com \nAdLift",
+        "location": null,
+        "logo_url": "https://media.licdn.com/dms/image/C4E0BAQErHWC7TGU1Bg/company-logo_400_400/0/1631341281811?e=1720051200&v=beta&t=I3EG9wy69mjWwO3l_hRQfxZvOmhDBwu0j7OXHGPjxrM"
+      },
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 5,
+          "year": 2006
+        },
+        "ends_at": {
+          "day": 30,
+          "month": 4,
+          "year": 2009
+        },
+        "company": "A.T. Kearney",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/kearney/",
+        "company_facebook_profile_url": null,
+        "title": "Associate",
+        "description": "Part of ATK's Consulting Team in India. Handled projects across multiple industries, specifically Media &amp; Entertainment, Retail, Real Estate, Private Equity and Oil &amp; Gas. \n\nWorked in Dubai and New York, in addition to India-based projects.",
+        "location": null,
+        "logo_url": "https://media.licdn.com/dms/image/D560BAQFEqKcpxSe82g/company-logo_400_400/0/1710516836709/kearney_logo?e=1720051200&v=beta&t=Z_78D-yHx19eSSYjQZYWE4-SZd2DNRbkMkh76pjNgTg"
+      }
+    ],
+    "education": [
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 1,
+          "year": 2005
+        },
+        "ends_at": {
+          "day": 31,
+          "month": 1,
+          "year": 2006
+        },
+        "field_of_study": "Finance",
+        "degree_name": "MBA",
+        "school": "Indian School of Business",
+        "school_linkedin_profile_url": null,
+        "school_facebook_profile_url": null,
+        "description": null,
+        "logo_url": "https://media.licdn.com/dms/image/C560BAQF_fJFzgl3vKA/company-logo_400_400/0/1672230749864/indian_school_of_business_logo?e=1720051200&v=beta&t=eRQ4LXPBJy77XxU0nsJryRUzZq6_shcinPsf23AT7W8",
+        "grade": null,
+        "activities_and_societies": null
+      },
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 1,
+          "year": 2002
+        },
+        "ends_at": {
+          "day": 31,
+          "month": 1,
+          "year": 2004
+        },
+        "field_of_study": "Astronomy and Astrophysics",
+        "degree_name": "MS",
+        "school": "Michigan State University",
+        "school_linkedin_profile_url": null,
+        "school_facebook_profile_url": null,
+        "description": null,
+        "logo_url": "https://media.licdn.com/dms/image/C560BAQFx0VIjYYSXBw/company-logo_400_400/0/1645471386372/michigan_state_university_logo?e=1720051200&v=beta&t=r2SVdlDulNyc8tXUa3UQ-uHhK42nVhS_97MIl_Bouw0",
+        "grade": null,
+        "activities_and_societies": null
+      },
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 1,
+          "year": 1998
+        },
+        "ends_at": {
+          "day": 31,
+          "month": 1,
+          "year": 2001
+        },
+        "field_of_study": "Physics",
+        "degree_name": "BSc",
+        "school": "Hindu College, University of Delhi",
+        "school_linkedin_profile_url": null,
+        "school_facebook_profile_url": null,
+        "description": null,
+        "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEFBRt0eM_tjA/company-logo_400_400/0/1630507541099?e=1720051200&v=beta&t=BTb9uOqKFmlxovnJovrl6CeUIHBvcEJHFNqWLQu4JLM",
+        "grade": null,
+        "activities_and_societies": "Debating & Public Speaking\nPhotography"
+      },
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 1,
+          "year": 1986
+        },
+        "ends_at": {
+          "day": 31,
+          "month": 1,
+          "year": 1998
+        },
+        "field_of_study": "Science",
+        "degree_name": "High School",
+        "school": "Don Bosco High School - India",
+        "school_linkedin_profile_url": null,
+        "school_facebook_profile_url": null,
+        "description": null,
+        "logo_url": "https://media.licdn.com/dms/image/C4E0BAQF04nJmE-492A/company-logo_400_400/0/1630574763126/don_bosco_high_school___india_logo?e=1720051200&v=beta&t=0B74T8zRV6tHI6GP-7yTDL6CbdKv8hQj_QIYCgB5KWo",
+        "grade": null,
+        "activities_and_societies": "Debating & Public Speaking"
+      }
+    ],
+    "accomplishment_publications": [
+      {
+        "name": "The Indian Industrial Sector - A Cleaner Future",
+        "publisher": "Stanford University (Program for Energy and Sustainable Development)",
+        "published_on": {
+          "day": 1,
+          "month": 1,
+          "year": 2007
+        },
+        "description": null,
+        "url": "http://iis-db.stanford.edu/pubs/21997/WP_68%2C_AT_Kearney%2C_Industrial.pdf"
+      }
+    ],
+    "accomplishment_honors_awards": [
+      {
+        "title": "LinkedIn Spotlight 2019",
+        "issuer": "LinkedIn India",
+        "issued_on": {
+          "day": 1,
+          "month": 10,
+          "year": 2019
+        },
+        "description": "Recognized as part of LinkedIn Spotlight - most viewed & engaging professionals on the platform"
+      },
+      {
+        "title": "Linkedin India Top Voice 2018",
+        "issuer": "LinkedIn",
+        "issued_on": {
+          "day": 1,
+          "month": 11,
+          "year": 2018
+        },
+        "description": "Part of LinkedIn India's Top Voice 2018 List"
+      },
+      {
+        "title": "LinkedIn India Power Profile List 2018",
+        "issuer": "LinkedIn ",
+        "issued_on": {
+          "day": 1,
+          "month": 8,
+          "year": 2018
+        },
+        "description": "Part of LinkedIn India's Power Profile List 2018"
+      },
+      {
+        "title": "Social Media Entrepreneur of the Year 2017",
+        "issuer": "CMOAsia",
+        "issued_on": {
+          "day": 1,
+          "month": 7,
+          "year": 2017
+        },
+        "description": "Awarded Social Media Entrepreneur of the Year 2017 by CMOAsia, in July 20017"
+      },
+      {
+        "title": "FORTUNE India 40 Under 40 List",
+        "issuer": "FORTUNE Magazine India",
+        "issued_on": {
+          "day": 1,
+          "month": 3,
+          "year": 2015
+        },
+        "description": "Listed in Fortune India's Annual compilation of its famous 40 UNDER 40 List"
+      },
+      {
+        "title": "FORTUNE India 40 Under 40 List",
+        "issuer": "Fortune Magazine (India)",
+        "issued_on": {
+          "day": 1,
+          "month": 3,
+          "year": 2014
+        },
+        "description": "Listed in Fortune India's 1st compilation of its famous 40 UNDER 40 List"
+      },
+      {
+        "title": "India's Most Promising Entrepreneur Award (2013)",
+        "issuer": "Enterprise Asia",
+        "issued_on": {
+          "day": 1,
+          "month": 3,
+          "year": 2014
+        },
+        "description": "Awarded India's Most Promising Entrepreneur Award for the year 2013, by Enterprise Asia (based in Malaysia)\nhttp://enterpriseasia.org/apea/in/past-winners.php"
+      },
+      {
+        "title": "India's Top 25 Executives below 40 years (2013)",
+        "issuer": "Business Today Magazine",
+        "issued_on": {
+          "day": 1,
+          "month": 3,
+          "year": 2014
+        },
+        "description": "Named as one of the Top 25 Executives below 40 years, in India for the year 2013\n\nhttp://businesstoday.intoday.in/story/hottest-young-executive-groupon-ankur-warikoo/1/203645.html"
+      },
+      {
+        "title": "ISB Young Leader Award 2005-06",
+        "issuer": "Indian School of Business",
+        "issued_on": {
+          "day": 1,
+          "month": 3,
+          "year": 2006
+        },
+        "description": "Awarded the ISB Young Leader Award for 2005-06. \n4 students in a batch of 350+ were recongized for the same award. "
+      }
+    ],
+    "connections": 500,
+    "similarly_named_profiles": [
+      {
+        "name": "Ankur Warikoo",
+        "link": "https://in.linkedin.com/in/ankur-warikoo-20b6a4170",
+        "summary": "--",
+        "location": "India"
+      },
+      {
+        "name": "Ankur Warikoo Lite",
+        "link": "https://in.linkedin.com/in/ankur-warikoo-lite-7b9588229",
+        "summary": "Student at The London School of Economics and Political Science (LSE)",
+        "location": "Alwar"
+      }
+    ]
   }
 }
