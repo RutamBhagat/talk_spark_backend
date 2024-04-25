@@ -3,10 +3,10 @@ from typing import Tuple
 from langchain.chains.llm import LLMChain
 from langchain.prompts import PromptTemplate
 from langchain_openai import ChatOpenAI
+from learning_langchain.agents.linkedin_lookup_agent import lookup as linkedin_lookup_agent
+from learning_langchain.output_parsers import PersonIntel
+from learning_langchain.third_parties.linkedin import scrape_linkedin_profile
 
-from .third_parties.linkedin import scrape_linkedin_profile
-from .agents.linkedin_lookup_agent import lookup as linkedin_lookup_agent
-from .output_parsers import PersonIntel, person_intel_parser
 
 
 def talk_spark(name: str) -> Tuple[PersonIntel, str]:
@@ -25,7 +25,7 @@ def talk_spark(name: str) -> Tuple[PersonIntel, str]:
         input_variables=["information"],
         template=summary_template,
         partial_variables={
-            "format_instructions": person_intel_parser.get_format_instructions()
+            "format_instructions": linkedin_lookup_agent.get_format_instructions()
         },
     )
 

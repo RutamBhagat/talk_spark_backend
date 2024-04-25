@@ -3,9 +3,7 @@ from langchain.prompts import PromptTemplate
 from langchain_core.tools import Tool
 from langchain_openai import ChatOpenAI
 from langchain.agents import AgentExecutor, create_react_agent
-
-from ..tools.tools import get_profile_url
-
+from learning_langchain.tools.tools import get_profile_url
 
 def lookup(name: str) -> str:
     llm = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo")

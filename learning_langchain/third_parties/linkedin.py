@@ -1,6 +1,4 @@
 import os
-from urllib import response
-from click.core import V
 import requests
 
 
@@ -9,8 +7,8 @@ def scrape_linkedin_profile(linkedin_url: str):
     scrape information from LinkedIn profiles,
     Manually scrape the information from LinkedIn profile
     """
-    api_endpoint = "https://nubela.co/proxycurl/api/v2/linkedin"
-    header_dic = {"Authorization": f"Bearer {os.getenv('PROXYCURL_API_KEY')}"}
+    # api_endpoint = "https://nubela.co/proxycurl/api/v2/linkedin"
+    # header_dic = {"Authorization": f"Bearer {os.getenv('PROXYCURL_API_KEY')}"}
 
     # linkedin_url = "https://www.linkedin.com/in/andrewyng/"
 

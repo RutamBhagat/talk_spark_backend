@@ -1,7 +1,7 @@
 from fastapi import FastAPI
-from .routers import talk_spark
 from dotenv import load_dotenv
 from fastapi.middleware.cors import CORSMiddleware
+from learning_langchain.routers import talk_spark
 
 
 load_dotenv()
