@@ -1,5 +1,4 @@
 import os
-import requests
 import json
 
 
@@ -11,16 +10,20 @@ def scrape_linkedin_profile(linkedin_url: str):
     print("Linkedin URL: ", linkedin_url)
     data = None
     # Check if the LinkedIn URL is present in the response.json file
+    path = f"{os.getcwd()}/learning_langchain/third_parties/temp/response.json"
+    print("Path: ", path)
     try:
-        with open(f"{os.getcwd()}/temp/response.json", "r") as file:
+        with open(path, "r") as file:
+            print("File Opened")
             response_data = json.load(file)
             if linkedin_url in response_data:
                 data = response_data[linkedin_url]
     except FileNotFoundError:
+        print("File Not Found")
         data = None
 
     if data:
-        return data.json()
+        return data
 
     return data
 
@@ -56,13 +59,13 @@ def scrape_linkedin_profile(linkedin_url: str):
 
     # # Store the response in the response.json file
     # try:
-    #     with open(f"{os.getcwd()}/temp/response.json", "r") as file:
+    #     with open(path, "r") as file:
     #         response_data = json.load(file)
     # except FileNotFoundError:
     #     response_data = {}
 
     # response_data[linkedin_url] = data
-    # with open("temp/response.json", "w") as f:
+    # with open(path, "w") as f:
     #     json.dump(response_data, f, indent=2)
 
     # return data
