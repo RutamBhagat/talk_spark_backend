@@ -1,7 +1,9 @@
+from os import getenv
 from fastapi import FastAPI
 from dotenv import load_dotenv
 from fastapi.middleware.cors import CORSMiddleware
 from learning_langchain.routers import talk_spark
+import uvicorn
 
 
 load_dotenv()
