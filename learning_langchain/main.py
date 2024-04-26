@@ -1,4 +1,3 @@
-import os
 from fastapi import FastAPI
 from dotenv import load_dotenv
 from fastapi.middleware.cors import CORSMiddleware
@@ -7,8 +6,6 @@ import uvicorn
 
 
 load_dotenv()
-
-app = FastAPI()
 
 app = FastAPI()
 
