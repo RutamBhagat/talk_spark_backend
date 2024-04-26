@@ -3,7 +3,8 @@
   "builds": [
     {
       "src": "learning_langchain/main.py",
-      "use": "@vercel/python"
+      "use": "@vercel/python",
+      "config": { "maxLambdaSize": "15mb" }
     }
   ],
   "routes": [

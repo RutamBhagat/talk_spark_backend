@@ -1,4 +1,4 @@
-from os import getenv
+import os
 from fastapi import FastAPI
 from dotenv import load_dotenv
 from fastapi.middleware.cors import CORSMiddleware
@@ -26,3 +26,9 @@ app.include_router(
     prefix="/talk_spark",
     tags=["talk_spark"],
 )
+
+PORT = int(os.get("PORT", 8000))
+HOST = "0.0.0.0"
+
+if __name__ == "__main__":
+    uvicorn.run("learning_langchain.main:app", host=HOST, port=PORT, reload=True)
