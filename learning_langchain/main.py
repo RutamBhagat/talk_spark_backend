@@ -27,7 +27,7 @@ app.include_router(
     tags=["talk_spark"],
 )
 
-PORT = int(os.get("PORT", 8000))
+PORT = 8000
 HOST = "0.0.0.0"
 
 if __name__ == "__main__":
