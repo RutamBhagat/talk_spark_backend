@@ -4,7 +4,9 @@ TalkSpark is a cool app that uses AI to give you great conversation starters. Ju
 
 **Link to project:** [https://talk-spark-frontend.vercel.app/](https://talk-spark-frontend.vercel.app/)
 
-![Screenshot 2024-04-27 093414](https://github.com/RutamBhagat/talk_spark_frontend/assets/72187009/44554e6e-e00b-484c-bd96-420c451bea5e)
+
+https://github.com/RutamBhagat/talk_spark_frontend/assets/72187009/dfc43717-61d5-4391-8d1c-89f291d780c7
+
 
 ## How It's Made
 
