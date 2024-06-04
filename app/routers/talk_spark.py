@@ -1,6 +1,6 @@
 from fastapi import APIRouter, status
-from learning_langchain.talk_spark import talk_spark
-from learning_langchain.utils.type_classes import Person_Request
+from app.talk_spark import talk_spark
+from app.utils.type_classes import Person_Request
 
 
 router = APIRouter()

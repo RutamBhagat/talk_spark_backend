@@ -3,7 +3,7 @@ from langchain.prompts import PromptTemplate
 from langchain_core.tools import Tool
 from langchain_openai import ChatOpenAI
 from langchain.agents import AgentExecutor, create_react_agent
-from learning_langchain.tools.tools import get_profile_url
+from app.tools.tools import get_profile_url
 
 
 def lookup(name: str) -> str:

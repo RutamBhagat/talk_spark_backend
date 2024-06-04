@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from dotenv import load_dotenv
 from fastapi.middleware.cors import CORSMiddleware
-from learning_langchain.routers import talk_spark
+from app.routers import talk_spark
 import uvicorn
 
 
@@ -28,4 +28,4 @@ PORT = 8000
 HOST = "0.0.0.0"
 
 if __name__ == "__main__":
-    uvicorn.run("learning_langchain.main:app", host=HOST, port=PORT, reload=True)
+    uvicorn.run("app.main:app", host=HOST, port=PORT, reload=True)
